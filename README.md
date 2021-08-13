@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nonhle-mdlalose
 - 👀 I’m interested in Coding, Automation and Business Analysis 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently passionate about python
 - 📫 Email: non.hlefanele@gmail.com
 
 <!---
